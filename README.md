@@ -21,7 +21,7 @@ Python automation script that downloads YouTube videos and uploads them to Googl
 
 ### 1. Clone the repository
 ```bash
-git clone <(https://github.com/andrxmedy/yt2drive.git)>
+git clone https://github.com/andrxmedy/yt2drive.git
 cd yt2drive
 ```
 
