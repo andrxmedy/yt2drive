@@ -21,7 +21,7 @@ Python automation script that downloads YouTube videos and uploads them to Googl
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repository-url>
+git clone <[your-repository-url](https://github.com/andrxmedy/yt2drive.git)>
 cd yt2drive
 ```
 
@@ -51,7 +51,7 @@ pip install -r requirements.txt
     - Go to console.cloud.google.com
     - Sign in with your Google account
 
-    ![//step1-console.jpg](https://docs/step1-console.jpg)
+    ![Google Cloud Console](https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPOSITORIO/main/docs/step1-console.jpg)
 
 - Step 4.2: Create a new project
     - Click project selector at top
