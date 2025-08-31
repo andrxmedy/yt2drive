@@ -59,14 +59,14 @@ pip install -r requirements.txt
     - Name: YT2Drive-Automation
     - Click "Create"
 
-    ![//step2-first-project.jpg](https://docs/step2-first-project.jpg)
+    ![Create New Project](https://raw.githubusercontent.com/andrxmedy/yt2drive/main/docs/step2-first-project.jpg)
 
 - Step 4.3: Enable Google Drive API
     - Left menu → "APIs & Services" → "Library"
     - Search for "Google Drive API"
     - Click "Enable" 
 
-    ![//step3-enable-api.jpg](https://docs/step3-enable-api.jpg)
+    ![Enable Drive API](https://raw.githubusercontent.com/andrxmedy/yt2drive/main/docs/step3-enable-api.jpg)
 
 - Step 4.4: Configure OAuth consent screen 
     - Left menu → "APIs & Services" → "OAuth consent screen"
@@ -76,7 +76,7 @@ pip install -r requirements.txt
         - User support email: (your email)
         - Developer contact email: (your email)
     
-    ![//step4-oauth-consent.jpg](https://docs/step4-oauth-consent.jpg)
+    ![OAuth Consent Screen](https://raw.githubusercontent.com/andrxmedy/yt2drive/main/docs/step4-oauth-consent.jpg)
 
 - Step 4.5: Create OAuth credentials 
     - Left menu → "APIs & Services" → "Credentials"
@@ -85,14 +85,14 @@ pip install -r requirements.txt
     - Name: Ex: YT2Drive-Desktop-Client
     - Click "Create"
 
-    ![//step5-create-credentials.jpg](https://docs/step5-create-credentials.jpg)
+    ![Create OAuth Credentials](https://raw.githubusercontent.com/andrxmedy/yt2drive/main/docs/step5-create-credentials.jpg)
 
 - Step 4.6: Download credentials
     - Click download icon next to the OAuth client
     - Rename file to "credentials.json"
     - Place in project folder
 
-    ![//step6-download-credentials.jpg](https://docs/step6-download-credentials.jpg)
+    ![Download Credentials](https://raw.githubusercontent.com/andrxmedy/yt2drive/main/docs/step6-download-credentials.jpg)
 
 ## Usage
 
