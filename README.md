@@ -100,7 +100,7 @@ Basic execution:
 ```bash
 # Activate virtual environment
 source .venv/bin/activate  # Linux/Mac
-# .venv\Scripts\activate   # Windows
+ .venv\Scripts\activate   # Windows
 
 # Run the script
 python yt2drive.py
